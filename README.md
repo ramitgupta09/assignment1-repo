@@ -1,4 +1,4 @@
-![webbanner](C:/Users/dotaw/Desktop/webbanner.jpg)
+![webbanner](images/webbanner.jpg)
 
 ##### Taught by Prof. Amuthan Arulraj
 
